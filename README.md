@@ -18,3 +18,5 @@ yarn test;
 ```
 > Details ..
 https://facebook.github.io/jest/
+
+[![asciicast](https://asciinema.org/a/8n4g082lxqtemqutbokpihqgb.png)](https://asciinema.org/a/8n4g082lxqtemqutbokpihqgb)
